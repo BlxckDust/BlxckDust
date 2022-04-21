@@ -1,5 +1,6 @@
 # BlxckDust
-Olá eu sou o BlxckDust
+Hi I'm BlxckDust, I'm a simple network protocol student, I've been involved in the computer field since 2014.
+I work with JS, Python, the tools I use to make my programs are: repl.it, vscode
 
 <div align="center">
   <a href="https://github.com/BlxckDust">
