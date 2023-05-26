@@ -1,6 +1,6 @@
 # BlxckDust
 Hi I'm BlxckDust, I'm a simple network protocol student, I've been involved in the computer field since 2014.
-I work with JS, Python, the tools I use to make my programs are: repl.it, vscode - 6051n6gang
+I work with JS, Python, the tools I use to make my programs are: repl.it, vscode - Singularity 6051n6, Security9, NetmonLab
 
 <div align="center">
   <a href="https://github.com/BlxckDust">
